@@ -54,9 +54,76 @@
 
 
 
-# Set
+# Set => unique items 
+
+# marks = {98,97, 95,80,98,95,80 }
+# print(len(marks),marks) # 4
+
+# for score in marks:
+#     print(score)
 
 
 
 
-# Dictionary 
+# Dictionary  word => meaning {key => val}
+
+# marks = {"Math": 99, "physics": 97, "Chemistry":98, "urdu":88}
+
+# print(marks, type(marks))
+# print(marks['physics'])
+# marks["physics"] = 92
+# marks['English'] = 85
+# print(marks['physics'])
+# print(marks['English'])
+
+# for key in marks: 
+#     print(key, marks[key])
+
+# Exercise 5: 
+# Given a list of roll number [101, 105, 102, 101, 108, 105, 110]. print all unique roll nums in the list.
+
+# marks =  [101, 105, 102, 101, 108, 105, 110]
+
+# unique_num = set(marks)
+# print(unique_num)
+
+# mathod 2: 
+
+# unique_num = []
+# for num in marks:
+#     if num not in unique_num:
+#         unique_num.append(num)
+# print(unique_num)
+
+
+# Given Employee records in the form of a list of tuples where each tuples contains:
+# (Employee ID, Employee Name, Salary)
+
+# Example [
+#     (101, 'Alice', 50000),
+#     (102, 'Bob', 55000),
+#     (103, 'Charlie', 60000),
+    
+# ]
+# ask user to enter Employyee ID & search it inside records 
+
+# employees = [
+#     (101, 'Alice', 50000),
+#     (102, 'Bob', 55000),
+#     (103, 'Charlie', 60000),
+# ]
+# search_id = int(input("Enter Employ ID: "))
+# found = False
+
+# for employee in employees:
+#     if employee[0] == search_id:
+#         print("Employee Found!")
+#         print("ID:", employee[0])
+#         print("Name:", employee[1])
+#         print("Salary:", employee[2])
+#         found = True
+#         break
+
+# # If not found 
+# if found == False:
+#     print("Employee not found.")
