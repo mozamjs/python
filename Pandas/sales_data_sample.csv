@@ -1,0 +1,61 @@
+ORDER_ID,CUSTOMER_NAME,COUNTRY,PRODUCT_LINE,PRODUCT,QUANTITY,UNIT_PRICE,SALES,ORDER_DATE
+101,Ali,Pakistan,Electronics,Laptop,4,850,3400,2026-01-01
+102,Ahmed,USA,Office Supplies,Notebook,7,6,42,2026-01-03
+103,Usman,UK,Furniture,Table,10,350,3500,2026-01-05
+104,Hamza,UAE,Electronics,Headphones,3,80,240,2026-01-07
+105,Bilal,Canada,Office Supplies,Mouse,6,25,150,2026-01-09
+106,Hassan,Pakistan,Furniture,Chair,9,75,675,2026-01-11
+107,Ayesha,USA,Electronics,Smartwatch,2,120,240,2026-01-13
+108,Fatima,UK,Office Supplies,Notebook,5,6,30,2026-01-15
+109,Zainab,UAE,Furniture,Bookshelf,8,160,1280,2026-01-17
+110,Sara,Canada,Electronics,Monitor,1,250,250,2026-01-19
+111,Omar,Pakistan,Office Supplies,Mouse,4,25,100,2026-01-21
+112,Danish,USA,Furniture,Desk,7,180,1260,2026-01-23
+113,Talha,UK,Electronics,Camera,10,450,4500,2026-01-25
+114,Saad,UAE,Office Supplies,Notebook,3,6,18,2026-01-27
+115,Huzaifa,Canada,Furniture,Cabinet,6,200,1200,2026-01-29
+116,Maryam,Pakistan,Electronics,Phone,9,500,4500,2026-01-31
+117,Iqra,USA,Office Supplies,Mouse,2,25,50,2026-02-02
+118,Maham,UK,Furniture,Table,5,350,1750,2026-02-04
+119,Hira,UAE,Electronics,Tablet,8,300,2400,2026-02-06
+120,Laiba,Canada,Office Supplies,Notebook,1,6,6,2026-02-08
+121,John,Pakistan,Furniture,Chair,4,75,300,2026-02-10
+122,Emma,USA,Electronics,Laptop,7,850,5950,2026-02-12
+123,Michael,UK,Office Supplies,Mouse,10,25,250,2026-02-14
+124,Olivia,UAE,Furniture,Bookshelf,3,160,480,2026-02-16
+125,David,Canada,Electronics,Headphones,6,80,480,2026-02-18
+126,Sophia,Pakistan,Office Supplies,Notebook,9,6,54,2026-02-20
+127,James,USA,Furniture,Desk,2,180,360,2026-02-22
+128,Mia,UK,Electronics,Smartwatch,5,120,600,2026-02-24
+129,Robert,UAE,Office Supplies,Mouse,8,25,200,2026-02-26
+130,Amelia,Canada,Furniture,Cabinet,1,200,200,2026-02-28
+131,Daniel,Pakistan,Electronics,Monitor,4,250,1000,2026-03-02
+132,Charlotte,USA,Office Supplies,Notebook,7,6,42,2026-03-04
+133,William,UK,Furniture,Table,10,350,3500,2026-03-06
+134,Isabella,UAE,Electronics,Camera,3,450,1350,2026-03-08
+135,Henry,Canada,Office Supplies,Mouse,6,25,150,2026-03-10
+136,Evelyn,Pakistan,Furniture,Chair,9,75,675,2026-03-12
+137,Noah,USA,Electronics,Phone,2,500,1000,2026-03-14
+138,Harper,UK,Office Supplies,Notebook,5,6,30,2026-03-16
+139,Lucas,UAE,Furniture,Bookshelf,8,160,1280,2026-03-18
+140,Ella,Canada,Electronics,Tablet,1,300,300,2026-03-20
+141,Liam,Pakistan,Office Supplies,Mouse,4,25,100,2026-03-22
+142,Ava,USA,Furniture,Desk,7,180,1260,2026-03-24
+143,Mason,UK,Electronics,Laptop,10,850,8500,2026-03-26
+144,Lily,UAE,Office Supplies,Notebook,3,6,18,2026-03-28
+145,Ethan,Canada,Furniture,Cabinet,6,200,1200,2026-03-30
+146,Grace,Pakistan,Electronics,Headphones,9,80,720,2026-04-01
+147,Alexander,USA,Office Supplies,Mouse,2,25,50,2026-04-03
+148,Chloe,UK,Furniture,Table,5,350,1750,2026-04-05
+149,Jacob,UAE,Electronics,Smartwatch,8,120,960,2026-04-07
+150,Nora,Canada,Office Supplies,Notebook,1,6,6,2026-04-09
+151,Jack,Pakistan,Furniture,Chair,4,75,300,2026-04-11
+152,Riley,USA,Electronics,Monitor,7,250,1750,2026-04-13
+153,Leo,UK,Office Supplies,Mouse,10,25,250,2026-04-15
+154,Aria,UAE,Furniture,Bookshelf,3,160,480,2026-04-17
+155,Ryan,Canada,Electronics,Camera,6,450,2700,2026-04-19
+156,Zoe,Pakistan,Office Supplies,Notebook,9,6,54,2026-04-21
+157,Adam,USA,Furniture,Desk,2,180,360,2026-04-23
+158,Maya,UK,Electronics,Phone,5,500,2500,2026-04-25
+159,Sam,UAE,Office Supplies,Mouse,8,25,200,2026-04-27
+160,Hannah,Canada,Furniture,Cabinet,1,200,200,2026-04-29
