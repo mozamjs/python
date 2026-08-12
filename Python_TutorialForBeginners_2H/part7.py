@@ -1,6 +1,6 @@
-# mini-project: Guessing Game 
 
 import random
+# mini-project: Guessing Game 
 
 def play_game():
     lucky_num = random.randint(1,50)
