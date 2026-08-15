@@ -1,0 +1,4 @@
+what is matplotlib ?
+Matplotlib is a visualization library of python 
+
+Matplotlib ka use Python ke data ko graphs/charts ki form mein dikhane ke liye hota hai.
